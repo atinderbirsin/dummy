@@ -27,10 +27,10 @@ const Banner = () => {
               color="true"
               backgroundcolor="true"
               radius="true"
-              className="px-4 py-2 border-none bg-btnPrimary inline-block rounded"
+              className="px-4 py-2 border-none bg-btnPrimary inline-block rounded hover:pr-10  ease-in-out duration-300 transition-all"
             >
               SHOP NOW
-              <i className="fa-solid fa-chevron-right " />
+              <i className="fa-solid fa-chevron-right invisible " />
             </Link>
           </div>
         </div>
